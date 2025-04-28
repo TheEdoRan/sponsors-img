@@ -10,7 +10,6 @@ export default defineConfig({
 	width: 800,
 	renderer: "tiers", // or 'circles'
 	formats: ["svg", "png"],
-	svgInlineCSS: true,
 	tiers: [
 		// Past sponsors, currently only supports GitHub
 		{
