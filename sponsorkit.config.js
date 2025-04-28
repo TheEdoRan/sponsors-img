@@ -17,26 +17,26 @@ export default defineConfig({
 		},
 		// Default tier
 		{
-			title: "Supporters",
+			title: "☕ Supporters",
 			preset: tierPresets.base,
 		},
 		{
-			title: "Backers",
+			title: "✨ Backers",
 			monthlyDollars: 10,
 			preset: tierPresets.medium,
 		},
 		{
-			title: "Entusiasts (Bronze)",
+			title: "🥉 Enthusiasts (Bronze)",
 			monthlyDollars: 25,
 			preset: tierPresets.large,
 		},
 		{
-			title: "Advocates (Silver)",
+			title: "🥈 Advocates (Silver)",
 			monthlyDollars: 100,
 			preset: tierPresets.xl,
 		},
 		{
-			title: "Patrons (Gold)",
+			title: "🥇 Patrons (Gold)",
 			monthlyDollars: 250,
 			preset: tierPresets.xl,
 		},
