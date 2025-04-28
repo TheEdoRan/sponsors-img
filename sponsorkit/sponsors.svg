@@ -15,14 +15,14 @@ text {
   font-size: 20px;
 }
 </style>
-<text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Entusiasts (Bronze)</text><a href="https://arcjet.com" class="sponsorkit-link" target="_blank" id="arcjet">
+<text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">🥉 Enthusiasts (Bronze)</text><a href="https://arcjet.com" class="sponsorkit-link" target="_blank" id="arcjet">
   <text x="400" y="153" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Arcjet</text>
   
   <clipPath id="c56a9c3">
     <rect x="365" y="65" width="70" height="70" rx="7" ry="7" />
   </clipPath>
   <image x="365" y="65" width="70" height="70" href="data:image/webp;base64,UklGRowCAABXRUJQVlA4IIACAABQDgCdASpQAFAAPm02lUikIqIhIUwAgA2JaQAT4t9M5NT1wyeD3bOV7sBcBxl9sbxsMKr1G/8z+y+gz6R9Gj0ACcj0eTe7zcVwyOrzLpcaxDCHE02RgVURi5W9t3sNYGp942LJ5HyuZBzrbm1NeDSKazKDPDL5f+Mt8AAA/vz4Ry2SjS1i4XUyREE11tLk16KZNvZSlRR3GP3zus8blps9L2pwCYOInq+Uc39Ulr4V4C1OakysH90J1pDNOLzf/l9u8KO7qmchwrOqvK9zHFq0Kvhe5HlVNCKjcMRzBuVPBMDI+X8elvjjPrIuFemEg+EeBvfhpdFdSXJGkELReBmG4QrQIq2zG/R/xMqkMOlSh8qZCNuEft7XjvSQb+VQYASPbBKXpq/zoAHlUlMoh6EES0+6i01aQ+AG+hfOqhP5X/zcwyulKoKrpd3gTlv8WWclEqxBGayUsaQAuZBZnLJfFai16+98nGReDjZEEM5iPIroBjMMtn1de+bu1wLbaVV/mmYBGxydXQXQE4ZG4F2n8aQAjLyGIDchajIw5Bk1Kdmqk58X1s5sPqHEthxnXd9+ePYzUjTMv9uJXbWucI4nvLlsl+f3ntbv8HhNvVOSsE8HWNDItde81OCacnrHwY8DPi4MhO/tBrp+ZQ+ECC0GZCpT9lnrwfpD6uApdht6SaS4J02pz3ipC4FCXe8HadEkrPnuBCfR2/NPTez0BmNXU9N+0yPt+1/0ebT2QMSDqza+rrHrnM9uTdwmeZY/YKPwgHJo+Qjlr3obs3f1VwAewb8i0h+sBkqzRWptTtLnQMcr+j/6IBkSESpkNkscSZi5uMfcdUFzEIx9W+joAAAA" clip-path="url(#c56a9c3)"/>
-</a><text x="400" y="210" text-anchor="middle" class="sponsorkit-tier-title">Supporters</text><a href="https://robinwieruch.de" class="sponsorkit-link" target="_blank" id="rwieruch">
+</a><text x="400" y="210" text-anchor="middle" class="sponsorkit-tier-title">☕ Supporters</text><a href="https://robinwieruch.de" class="sponsorkit-link" target="_blank" id="rwieruch">
   
   <clipPath id="c1cd784">
     <rect x="356" y="235" width="40" height="40" rx="20" ry="20" />
