@@ -6,8 +6,6 @@ export default defineConfig({
 		login: "TheEdoRan",
 		type: "user",
 	},
-	// Rendering configs
-	width: 800,
 	renderer: "tiers", // or 'circles'
 	formats: ["svg", "png"],
 	tiers: [
